@@ -40,9 +40,9 @@
                                 <RowDefinition Height="*"/>
                                 <RowDefinition Height="*"/>
                             </Grid.RowDefinitions>
-                            <local:noteL HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1" Grid.Row="4"/>
+                            <local:noteL HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="1" Grid.Row="0"/>
                             <local:noteL HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="4" Grid.Row="5"/>
-                            <local:noteL HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="6" Grid.Row="4"/>
+                            <local:noteL HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="6" Grid.Row="7"/>
                         </Grid>
                         <Grid VerticalAlignment="Center" HorizontalAlignment="Stretch" Margin="30,39,0,0" Height="88">
                             <Grid.ColumnDefinitions>
@@ -67,9 +67,9 @@
                             </Grid.RowDefinitions>
                             <local:note HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="2" Grid.Row="4"/>
                             <local:note HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="3" Grid.Row="1"/>
-                            <local:note HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="5" Grid.Row="4"/>
+                            <local:note HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="5" Grid.Row="0"/>
                             <local:note HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="7" Grid.Row="2"/>
-                            <local:note HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="8" Grid.Row="3"/>
+                            <local:note HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Column="8" Grid.Row="9"/>
                         </Grid>
                     </Grid>
                 </Grid>
