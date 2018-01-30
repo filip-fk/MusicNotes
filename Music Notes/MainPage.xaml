@@ -10,8 +10,8 @@
     <Grid Background="{ThemeResource SystemControlChromeHighAcrylicWindowMediumBrush}">
         <Grid Height="300" VerticalAlignment="Top">
             <TextBlock Text="Music to Pi" FontSize="40" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20" FontWeight="ExtraBold"/>
-            <ScrollViewer Margin="30,80,0,0">
-                <TextBlock Text="3.14..."/>
+            <ScrollViewer Margin="30,80,30,0">
+                <TextBlock x:Name="pi_10" Text="3.14..." TextWrapping="Wrap"/>
             </ScrollViewer>
         </Grid>
         <ScrollViewer Margin="10,300,10,10">
